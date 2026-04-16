@@ -1,0 +1,17 @@
+# Enviroment Variables
+*.env
+
+# database files
+*.db
+
+# Unecessary folders
+./data
+./logs
+
+# Windows Batch Files
+*.bat
+
+#Docker configuration files
+docker-compose.yml
+Dockerfile
+.dockerignore
